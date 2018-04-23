@@ -1,0 +1,19 @@
+{
+  "name": "tinymce",
+  "version": "3.5.11",
+  "description": "tinymce distributable package",
+  "main": "dist/tinymce/jscripts/tiny_mce/tiny_mce_src.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinymce/tinymce.git"
+  },
+  "author": "",
+  "license": "LGPL-2.1"
+}
